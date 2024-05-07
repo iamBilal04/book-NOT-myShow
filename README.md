@@ -61,7 +61,7 @@ The Cinema Mitra Online Movie Ticket Booking System Chatbot is a cloud-based app
 
 ## 🔗 Links
 
-https://img.shields.io/badge/-bookNOTmyShow-red?style=flat&logoSize=auto&link=https%3A%2F%2Fbook-not-my-show.s3.ap-south-1.amazonaws.com%2Findex.html
+![](https://img.shields.io/badge/-bookNOTmyShow-red?style=flat&logoSize=auto&link=https%3A%2F%2Fbook-not-my-show.s3.ap-south-1.amazonaws.com%2Findex.html)
 
 
 
